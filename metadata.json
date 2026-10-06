@@ -1,0 +1,6 @@
+{
+  "name": "IFIOK",
+  "description": "Enterprise-grade global freelance marketplace with seamless Web3 infrastructure, non-custodial smart escrow, and instant Open USD (OUSD) multi-fiat settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
